@@ -8,8 +8,8 @@
 
 - 编辑 `rules/<package>.json`，然后运行 `python3 scripts/build_catalog.py`。
 - 将原生规则和生成的 `catalog-v1.json` 一并提交。CI 通过 `python3 scripts/build_catalog.py --check` 检查字段、路径、迁移覆盖率和产物是否一致。
-- 应用从 `https://raw.githubusercontent.com/Kindness-Net/storage-redirection-x-rules/master/catalog-v1.json` 获取完整目录。用户手动更新；离线时使用上次有效缓存；下载不会自动应用配置。
-- 合并时云端同路径项优先；替换会清除未选择的本地路径。应用规则会启用重定向，并遵守当前 Android 用户及共享 UID 确认流程。
+- 应用从 `https://raw.githubusercontent.com/Kindness-Net/storage-redirection-x-rules/master/catalog-v1.json` 获取完整目录。进入应用配置页时使用缓存，缓存超过 24 小时按需更新；下载不会自动修改设备配置。
+- 应用配置页仅显示简短建议。点击卡片“开启”或打开原有重定向开关，默认合并匹配的云端规则；同路径以已有手动配置为准，保持当前 Android 用户及共享 UID 的配置同步。
 
 ## 单应用格式
 
@@ -30,13 +30,13 @@
 
 路径相对于 `/storage/emulated/<当前用户>/`，不硬编码用户 ID。禁止绝对路径、`.`、`..`、通配符、反斜杠和 `Android/data`。真实路径允许 SRX 的 `!` 排除及 `^` 只读前缀；映射源和目标不可相同。转换后需要路径豁免的同目录导出写入 `allowed_real_paths`。
 
-`recommendation` 可为 `recommended`、`unnecessary`、`not_recommended`、`cause_problems`、`depends_on_situations`、`custom`。它只表达建议，不自动修改设备配置。只包含推荐基础隔离的应用可以有空路径；不推荐隔离且没有路径的条目作为说明展示。
+`recommendation` 可为 `recommended`、`unnecessary`、`not_recommended`、`cause_problems`、`depends_on_situations`、`custom`。它只表达建议；开启重定向时才引入路径，不因下载或查看建议而自动修改配置。只包含基础隔离建议的应用可以有空路径；不推荐隔离的应用显示简短提示，仍由用户决定是否通过原开关开启。
 
 本地化说明接受 `en`、`zh-CN`、`zh-TW`。`upstream_file` 为空表示没有旧规则来源；`upstream_verified` 仅记录原项目状态，不能当作 SRX 实机验证结果。
 
 ## 迁移边界
 
-- 普通导出目录的 `source → target` 离线转为 SRX 直接路径映射；相同路径转为真实路径规则。这会直接写入目标，并包含子目录和临时文件，不复现旧应用的文件导出时机、媒体扫描或下载登记。应用前明确提示并确认。
+- 普通导出目录的 `source → target` 离线转为 SRX 直接路径映射；相同路径转为真实路径规则。这会直接写入目标，并包含子目录和临时文件，不复现旧应用的文件导出时机、媒体扫描或下载登记。详细行为差异保留在本仓库的迁移记录中。
 - 带 `mask` 的过滤导出、空路径、Android 目录导出、冲突目标不生成会扩大访问范围的规则；详细原因和原始字段在 `migration/report.json`。
 - `accessible_folders` 跨应用共享规则无法等价转换，保留报告并提示需要人工适配。
 - `non_standard_files` 是原应用的行为证据，**不是允许列表**；不反向转换成真实路径权限。
