@@ -1,0 +1,18 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "o0oo0ooo0"
+  ],
+  "description": {
+    "en": "Isolation for this app is unnecessary\nThis app has no non-standard behaviors.",
+    "zh-CN": "为该应用使用隔离没有必要\n该应用没有非标准的行为。",
+    "zh-TW": "為該程式使用隔離沒有必要\n該程式沒有非標準行為。"
+  },
+  "package": "com.amd.link",
+  "path_mappings": {},
+  "recommendation": "unnecessary",
+  "updated_at": 1638543713,
+  "upstream_file": "com.amd.link.json",
+  "upstream_verified": true,
+  "warnings": []
+}

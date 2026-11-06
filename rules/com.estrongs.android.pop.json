@@ -1,0 +1,18 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "Vibiry"
+  ],
+  "description": {
+    "en": "Isolation for this app is not recommended",
+    "zh-CN": "不推荐为该应用使用隔离\n文件浏览器需要对文件执行操作。开启重定向后会导致默认主页也被重定向。",
+    "zh-TW": "不推薦為該程式使用隔離"
+  },
+  "package": "com.estrongs.android.pop",
+  "path_mappings": {},
+  "recommendation": "not_recommended",
+  "updated_at": 1573909761,
+  "upstream_file": "com.estrongs.android.pop.json",
+  "upstream_verified": false,
+  "warnings": []
+}

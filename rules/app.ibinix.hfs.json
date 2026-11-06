@@ -1,0 +1,18 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "Sakura-Dragon4146"
+  ],
+  "description": {
+    "en": "Isolation for this app is not recommended",
+    "zh-CN": "不推荐为该应用使用隔离\n默认在根目录下生成upload文件夹，可去设置中更改。",
+    "zh-TW": "不推薦為該程式使用隔離"
+  },
+  "package": "app.ibinix.hfs",
+  "path_mappings": {},
+  "recommendation": "not_recommended",
+  "updated_at": 1573909761,
+  "upstream_file": "app.ibinix.hfs.json",
+  "upstream_verified": false,
+  "warnings": []
+}

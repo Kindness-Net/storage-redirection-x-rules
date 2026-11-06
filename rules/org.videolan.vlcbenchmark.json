@@ -1,0 +1,18 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "pgs666"
+  ],
+  "description": {
+    "en": "Whether is necessary to isolation depends on personal circumstances",
+    "zh-CN": "是否有必要隔离取决于个人情况",
+    "zh-TW": "是否有必要隔離取決於個人情況"
+  },
+  "package": "org.videolan.vlcbenchmark",
+  "path_mappings": {},
+  "recommendation": "depends_on_situations",
+  "updated_at": 1655486880,
+  "upstream_file": "org.videolan.vlcbenchmark.json",
+  "upstream_verified": false,
+  "warnings": []
+}

@@ -1,0 +1,23 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "xingyu2017",
+    "NaAlOH4"
+  ],
+  "description": {
+    "en": "Isolation for this app is recommended",
+    "zh-CN": "推荐为该应用使用隔离\n默认下载路径为 IDMP。\n请 使用链接功能进行重定向 或 在应用内自行设置下载路径",
+    "zh-TW": "推薦為該程式使用隔離\n默認下載路徑為 IDMP。\n請 使用鏈接功能進行重定向 或 在應用內自行設置下載路徑。"
+  },
+  "package": "idm.internet.download.manager",
+  "path_mappings": {
+    "IDM": "Download/IDM"
+  },
+  "recommendation": "recommended",
+  "updated_at": 1573909761,
+  "upstream_file": "idm.internet.download.manager.json",
+  "upstream_verified": false,
+  "warnings": [
+    "direct_mapping"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "Youxikong"
+  ],
+  "description": {
+    "en": "Isolation for this app is recommended\nUsing TBS SDK (Tencent Browsing Service) which has the behavior of abusing storage.",
+    "zh-CN": "推荐为该应用使用隔离\n使用了有滥用存储空间的行为的 TBS SDK（腾讯浏览服务，Tencent Browsing Service）。",
+    "zh-TW": "推薦為該程式使用隔離\n使用了有濫用儲存空間的行為的 TBS SDK（騰訊瀏覽服務，Tencent Browsing Service）。"
+  },
+  "package": "com.hypergryph.arknights",
+  "path_mappings": {},
+  "recommendation": "recommended",
+  "updated_at": 1585135925,
+  "upstream_file": "com.hypergryph.arknights.json",
+  "upstream_verified": false,
+  "warnings": []
+}

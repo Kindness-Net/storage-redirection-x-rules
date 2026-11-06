@@ -1,0 +1,18 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "Sodium-Aluminate"
+  ],
+  "description": {
+    "en": "Isolation for this app is not recommended",
+    "zh-CN": "不推荐为该应用使用隔离\n可以手动修改脚本保存位置，除脚本外程序本身无坏行为。\n当然，程序本身可以执行一些在存储卡根目录下写文件的js代码。",
+    "zh-TW": "不推薦為該程式使用隔離"
+  },
+  "package": "org.autojs.autojs",
+  "path_mappings": {},
+  "recommendation": "not_recommended",
+  "updated_at": 1573909761,
+  "upstream_file": "org.autojs.autojs.json",
+  "upstream_verified": false,
+  "warnings": []
+}

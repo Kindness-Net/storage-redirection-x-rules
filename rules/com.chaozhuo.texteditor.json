@@ -1,0 +1,18 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "gyj1109"
+  ],
+  "description": {
+    "en": "Isolation for this app is not recommended",
+    "zh-CN": "不推荐为该应用使用隔离\n本应用为文本编辑器，需要访问外部储存。开启重定向将导致打开、保存等功能失效。",
+    "zh-TW": "不推薦為該程式使用隔離"
+  },
+  "package": "com.chaozhuo.texteditor",
+  "path_mappings": {},
+  "recommendation": "not_recommended",
+  "updated_at": 1573909761,
+  "upstream_file": "com.chaozhuo.texteditor.json",
+  "upstream_verified": false,
+  "warnings": []
+}

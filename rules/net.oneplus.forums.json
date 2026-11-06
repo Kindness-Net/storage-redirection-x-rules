@@ -1,0 +1,18 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "wordlesswind"
+  ],
+  "description": {
+    "en": "Isolation for this app is not recommended",
+    "zh-CN": "不推荐为该应用使用隔离\n应用调用系统的“内容下载管理器”来下载用户想要保存的图片，会在“内置储存”创建\"OnePlus/images\"文件夹。",
+    "zh-TW": "不推薦為該程式使用隔離"
+  },
+  "package": "net.oneplus.forums",
+  "path_mappings": {},
+  "recommendation": "not_recommended",
+  "updated_at": 1573909761,
+  "upstream_file": "net.oneplus.forums.json",
+  "upstream_verified": false,
+  "warnings": []
+}

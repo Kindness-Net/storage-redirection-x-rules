@@ -1,0 +1,20 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "simonsmh",
+    "Kr328",
+    "diauweb"
+  ],
+  "description": {
+    "en": "Isolation for this app is not recommended",
+    "zh-CN": "不推荐为该应用使用隔离",
+    "zh-TW": "不推薦為該程式使用隔離\n在连接本地 Shell 时会产生 .bash_history 等功能配置，重定向本应用可能会破坏其打开本地 Shell 的正常功能。连接远程服务器时则不会产生这些配置。"
+  },
+  "package": "com.sonelli.juicessh",
+  "path_mappings": {},
+  "recommendation": "not_recommended",
+  "updated_at": 1573909761,
+  "upstream_file": "com.sonelli.juicessh.json",
+  "upstream_verified": false,
+  "warnings": []
+}

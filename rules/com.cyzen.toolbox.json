@@ -1,0 +1,18 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "xjz814"
+  ],
+  "description": {
+    "en": "Isolation for this app is not recommended",
+    "zh-CN": "不推荐为该应用使用隔离\n用于储存恢复包，不建议重定向",
+    "zh-TW": "不推薦為該程式使用隔離"
+  },
+  "package": "com.cyzen.toolbox",
+  "path_mappings": {},
+  "recommendation": "not_recommended",
+  "updated_at": 1573909761,
+  "upstream_file": "com.cyzen.toolbox.json",
+  "upstream_verified": false,
+  "warnings": []
+}

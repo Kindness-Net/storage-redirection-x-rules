@@ -1,0 +1,19 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "monkey-sking",
+    "NaAlOH4"
+  ],
+  "description": {
+    "en": "Isolation for this app is recommended\nDO NOTuse it if you want to manage your file.",
+    "zh-CN": "推荐为该应用使用隔离\n如需使用文件管理/分析功能，请不要开启重定向！",
+    "zh-TW": "推薦為該程式使用隔離\n如需使用文件管理/分析功能，請不要開啟重定向！"
+  },
+  "package": "com.fooview.android.fooview",
+  "path_mappings": {},
+  "recommendation": "recommended",
+  "updated_at": 1573909761,
+  "upstream_file": "com.fooview.android.fooview.json",
+  "upstream_verified": false,
+  "warnings": []
+}

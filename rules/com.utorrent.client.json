@@ -1,0 +1,18 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "ChemCodex"
+  ],
+  "description": {
+    "en": "Isolation for this app is unnecessary\nThis app has no non-standard behaviors.",
+    "zh-CN": "为该应用使用隔离没有必要\n该应用没有非标准的行为。",
+    "zh-TW": "為該程式使用隔離沒有必要\n該程式沒有非標準行為。\n軟件默認設定為/Download，如果是因改變了下載目錄而導致「亂吐文件」，不屬於軟件本身原因。"
+  },
+  "package": "com.utorrent.client",
+  "path_mappings": {},
+  "recommendation": "unnecessary",
+  "updated_at": 1573909761,
+  "upstream_file": "com.utorrent.client.json",
+  "upstream_verified": true,
+  "warnings": []
+}

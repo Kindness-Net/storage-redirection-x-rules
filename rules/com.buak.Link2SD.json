@@ -1,0 +1,20 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "RogerReal"
+  ],
+  "description": {
+    "en": "Isolation for this app is unnecessary\nThis app has no non-standard behaviors.",
+    "zh-CN": "为该应用使用隔离没有必要\n该应用没有非标准的行为。",
+    "zh-TW": "為該程式使用隔離沒有必要\n該程式沒有非標準行為。"
+  },
+  "package": "com.buak.Link2SD",
+  "path_mappings": {},
+  "recommendation": "unnecessary",
+  "updated_at": 1586260839,
+  "upstream_file": "com.buak.Link2SD.json",
+  "upstream_verified": true,
+  "warnings": [
+    "corrected_metadata"
+  ]
+}

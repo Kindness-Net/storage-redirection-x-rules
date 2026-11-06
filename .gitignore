@@ -4,3 +4,14 @@ output
 /rules/apps/output
 /rules/verified_apps.output.json
 .DS_Store
+
+# 上游只读快照与迁移过程文件留在本地，不作为当前规则维护入口。
+/app_rule/
+/app_category/
+/tools/
+/.github/ISSUE_TEMPLATE/
+/.github.api.status
+/upstream-files.json
+/migration-corrections.json
+/migration-report.json
+__pycache__/

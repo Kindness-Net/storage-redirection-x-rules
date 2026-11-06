@@ -1,0 +1,31 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "Love4Taylor"
+  ],
+  "description": {
+    "en": "Isolation for this app is recommended\nThe app persists (save) non-user files (caches, logs, and even tags to track the device, etc.) to the shared storage which is an abuse of storage permission.",
+    "zh-CN": "推荐为该应用使用隔离\n该应用持久化（保存）非用户文件（缓存、日志，甚至是跟踪设备的标签等）到共享存储空间，这是对存储权限的滥用。",
+    "zh-TW": "推薦為該程式使用隔離\n該程式持久化（儲存）非使用者檔案（快取、日誌，甚至是跟蹤裝置的標籤等）到共享儲存空間，這是對儲存權限的濫用。"
+  },
+  "package": "com.qihoo.camera",
+  "path_mappings": {
+    "360Camera/DownloadedCloudRecord": "Movies/QihooCamera/Recordings",
+    "360Camera/DownloadedVideo": "Movies/QihooCamera/Downloads",
+    "360Camera/HomeWatchPhoto": "Pictures/QihooCamera/FamilyAnimation",
+    "360Camera/MyPhoto": "Pictures/QihooCamera",
+    "360Camera/TimeLine": "Pictures/QihooCamera/TimelineAlbum",
+    "360智能摄像机/下载的云录像": "Movies/QihooCamera/Recordings",
+    "360智能摄像机/下载的视频": "Movies/QihooCamera/Downloads",
+    "360智能摄像机/家庭动态照片": "Pictures/QihooCamera/FamilyAnimation",
+    "360智能摄像机/我的相册": "Pictures/QihooCamera",
+    "360智能摄像机/时光相册": "Pictures/QihooCamera/TimelineAlbum"
+  },
+  "recommendation": "recommended",
+  "updated_at": 1573909761,
+  "upstream_file": "com.qihoo.camera.json",
+  "upstream_verified": false,
+  "warnings": [
+    "direct_mapping"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "andrizmitnick",
+    "Shane",
+    "DEVELOPER"
+  ],
+  "description": {
+    "en": "Isolation for this app is not recommended\nAirDroid will delete all images that it cannot access via \"Media Storage\". Please be cautious.\nIf you do want to turn on redirect, please select all the folders containing images in \"Accessible folders\", or image files outside will be deleted.",
+    "zh-CN": "不推荐为该应用使用隔离\nAirDroid 会借助“媒体存储”删除所有自身不能访问的图片文件，请务必谨慎操作。\n如果一定要开启重定向，请在“可访问的文件夹”中选择所有含有图片的文件夹，在此之外的图片文件都会被删除。",
+    "zh-TW": "不推薦為該程式使用隔離\nAirDroid 會藉助「媒體儲存」刪除所有自身不能訪問的圖片檔案，請務必謹慎操作。\n如果一定要開啟重定向，請在「可訪問的資料夾」中選擇所有含有圖片的資料夾，在此之外的圖片檔案都會被刪除。"
+  },
+  "package": "com.sand.airdroid",
+  "path_mappings": {
+    "AirDroid/ScreenRecord": "Pictures/AirDroid",
+    "AirDroid/upload": "Download/AirDroid"
+  },
+  "recommendation": "not_recommended",
+  "updated_at": 1573909761,
+  "upstream_file": "com.sand.airdroid.json",
+  "upstream_verified": false,
+  "warnings": [
+    "direct_mapping"
+  ]
+}

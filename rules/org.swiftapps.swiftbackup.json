@@ -1,0 +1,23 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "simonsmh",
+    "ariaoftime",
+    "gingerbreap",
+    "xz-dev",
+    "jinbolin227",
+    "jaysonwcs"
+  ],
+  "description": {
+    "en": "Isolation will cause the app stop working\nThis app save files no non-standard location (SwiftBackup folder). However, the part of the app that uses root permission is not affected by the isolation, so enabling isolation will cause it to work exceptionally.",
+    "zh-CN": "隔离将导致应用停止工作\n该应用文件至非标准位置（SwiftBackup 文件夹）。但是该应用使用 root 权限的部分不受隔离的影响，因此启用隔离将导致其工作异常。",
+    "zh-TW": "隔離將導致程式停止工作\n該程式檔案至非標準位置（SwiftBackup 資料夾）。但是該程式使用 root 存權的部分不受隔離的影響，因此啟用隔離將導致其工作異常。"
+  },
+  "package": "org.swiftapps.swiftbackup",
+  "path_mappings": {},
+  "recommendation": "custom",
+  "updated_at": 1652029739,
+  "upstream_file": "org.swiftapps.swiftbackup.json",
+  "upstream_verified": false,
+  "warnings": []
+}

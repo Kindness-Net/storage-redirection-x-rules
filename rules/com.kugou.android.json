@@ -1,0 +1,24 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "TinkMingKing",
+    "huanruomengyun"
+  ],
+  "description": {
+    "en": "Isolation for this app is recommended",
+    "zh-CN": "推荐为该应用使用隔离\n开启后不建议自定义下载目录。",
+    "zh-TW": "推薦為該程式使用隔離"
+  },
+  "package": "com.kugou.android",
+  "path_mappings": {
+    "Pictures": "Music/KuGouCover",
+    "kgmusic/download": "Music/KuGou"
+  },
+  "recommendation": "recommended",
+  "updated_at": 1586244547,
+  "upstream_file": "com.kugou.android.json",
+  "upstream_verified": false,
+  "warnings": [
+    "direct_mapping"
+  ]
+}

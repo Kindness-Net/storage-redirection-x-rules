@@ -1,0 +1,18 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "WOLFRAZOR"
+  ],
+  "description": {
+    "en": "Isolation for this app is recommended\nCreates data/.push_udid file if storage permission is granted.\n@`\nPersisting (saving) non-user files to shared storage is an abuse of storage permission.\n@`\nAt the time of the rule update, there was no account ban after the isolation.",
+    "zh-CN": "推荐为该应用使用隔离\n若授予存储权限则会建立 data/.push_udid 文件。\n@`\n持久化（保存）非用户文件到共享存储空间是滥用存储权限的行为。\n@`\n规则更新之时，隔离后没有出现封号的情况。",
+    "zh-TW": "推薦為該程式使用隔離\n若授予儲存權限則會建立 data/.push_udid 檔案。\n持久化（儲存）非使用者檔案到共享儲存空間是濫用儲存權限的行為。\n規則更新之時，隔離後沒有出現封號的情況。"
+  },
+  "package": "com.miHoYo.Yuanshen",
+  "path_mappings": {},
+  "recommendation": "recommended",
+  "updated_at": 1652007469,
+  "upstream_file": "com.miHoYo.Yuanshen.json",
+  "upstream_verified": false,
+  "warnings": []
+}

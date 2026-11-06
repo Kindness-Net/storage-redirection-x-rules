@@ -1,0 +1,18 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "YandexStudio"
+  ],
+  "description": {
+    "en": "Isolation for this app is unnecessary\nThis app has no non-standard behaviors.",
+    "zh-CN": "为该应用使用隔离没有必要\n该应用没有非标准的行为。\n该应用使用绝对路径进行输出，除非您主动创建，不会生成任何非标准目录。",
+    "zh-TW": "為該程式使用隔離沒有必要\n該程式沒有非標準行為。"
+  },
+  "package": "org.magiclen.ffmpeg.cli",
+  "path_mappings": {},
+  "recommendation": "unnecessary",
+  "updated_at": 1573909761,
+  "upstream_file": "org.magiclen.ffmpeg.cli.json",
+  "upstream_verified": true,
+  "warnings": []
+}

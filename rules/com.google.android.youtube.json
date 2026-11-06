@@ -1,0 +1,19 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "simonsmh",
+    "sjdhome"
+  ],
+  "description": {
+    "en": "Isolation for this app is not recommended\nIt generates a Cardboard folder when viewing a panoramic video.",
+    "zh-CN": "不推荐为该应用使用隔离\n当观看全景视频时会产生CardBoard文件夹。",
+    "zh-TW": "不推薦為該程式使用隔離"
+  },
+  "package": "com.google.android.youtube",
+  "path_mappings": {},
+  "recommendation": "not_recommended",
+  "updated_at": 1573909761,
+  "upstream_file": "com.google.android.youtube.json",
+  "upstream_verified": false,
+  "warnings": []
+}

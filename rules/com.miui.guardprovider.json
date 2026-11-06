@@ -1,0 +1,21 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "IJustWantANamePlease",
+    "ArthurCyy"
+  ],
+  "description": {
+    "en": "Whether is necessary to isolation depends on personal circumstances\nFrom v1.4.5 (development version), this application no longer has non-standard behavior, please decide whether to enable isolation according to the application version.",
+    "zh-CN": "是否有必要隔离取决于个人情况",
+    "zh-TW": "是否有必要隔離取決於個人情況\n从 v1.4.5 （开发版）起，此应用不再拥有非标准行为，请根据应用版本来决定是否开启隔离。"
+  },
+  "package": "com.miui.guardprovider",
+  "path_mappings": {},
+  "recommendation": "depends_on_situations",
+  "updated_at": 1658670605,
+  "upstream_file": "com.miui.guardprovider.json",
+  "upstream_verified": false,
+  "warnings": [
+    "non_standard_files"
+  ]
+}

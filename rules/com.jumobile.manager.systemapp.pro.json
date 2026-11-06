@@ -1,0 +1,18 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "snailwind"
+  ],
+  "description": {
+    "en": "Isolation for this app is not recommended",
+    "zh-CN": "不推荐为该应用使用隔离\n重定向会导致 apk 扫描出现问题，只能扫描到排除的文件夹（Download Music 等），如果根目录只用这些文件夹（其他全部重定向），应该可以正常使用，否则不推荐重定向。",
+    "zh-TW": "不推薦為該程式使用隔離"
+  },
+  "package": "com.jumobile.manager.systemapp.pro",
+  "path_mappings": {},
+  "recommendation": "not_recommended",
+  "updated_at": 1573909761,
+  "upstream_file": "com.jumobile.manager.systemapp.pro.json",
+  "upstream_verified": false,
+  "warnings": []
+}

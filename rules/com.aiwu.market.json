@@ -1,0 +1,18 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "DaXiaBinge"
+  ],
+  "description": {
+    "en": "Isolation for this app is not recommended\nData package will also be redirected.",
+    "zh-CN": "不推荐为该应用使用隔离\n开启后游戏数据包也会被转过去。",
+    "zh-TW": "不推薦為該程式使用隔離\n開啟後遊戲數據包也會被轉過去。"
+  },
+  "package": "com.aiwu.market",
+  "path_mappings": {},
+  "recommendation": "not_recommended",
+  "updated_at": 1573909761,
+  "upstream_file": "com.aiwu.market.json",
+  "upstream_verified": false,
+  "warnings": []
+}

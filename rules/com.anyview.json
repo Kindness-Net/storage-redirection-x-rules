@@ -1,0 +1,18 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "Sherlock-Holo"
+  ],
+  "description": {
+    "en": "Isolation for this app is not recommended\nRedirecting will make it unable to find books.",
+    "zh-CN": "不推荐为该应用使用隔离",
+    "zh-TW": "不推薦為該程式使用隔離"
+  },
+  "package": "com.anyview",
+  "path_mappings": {},
+  "recommendation": "not_recommended",
+  "updated_at": 1573909761,
+  "upstream_file": "com.anyview.json",
+  "upstream_verified": false,
+  "warnings": []
+}

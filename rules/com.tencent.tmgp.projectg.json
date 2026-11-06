@@ -1,0 +1,18 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "Merlyx"
+  ],
+  "description": {
+    "en": "Isolation for this app is not recommended",
+    "zh-CN": "不推荐为该应用使用隔离\n开启重定向可能会被厂商封号。",
+    "zh-TW": "不推薦為該程式使用隔離"
+  },
+  "package": "com.tencent.tmgp.projectg",
+  "path_mappings": {},
+  "recommendation": "not_recommended",
+  "updated_at": 1573909761,
+  "upstream_file": "com.tencent.tmgp.projectg.json",
+  "upstream_verified": false,
+  "warnings": []
+}

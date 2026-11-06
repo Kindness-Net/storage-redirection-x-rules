@@ -1,0 +1,23 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "FoobarRogers",
+    "xianzheTM"
+  ],
+  "description": {
+    "en": "Isolation for this app is recommended\nCreates Ehviewer folder.",
+    "zh-CN": "推荐为该应用使用隔离\n建立 Ehviewer 文件夹。",
+    "zh-TW": "推薦為該程式使用隔離\n建立 Ehviewer 資料夾。"
+  },
+  "package": "com.hippo.ehviewer",
+  "path_mappings": {
+    "EhViewer/download": "Pictures/EhViewer"
+  },
+  "recommendation": "recommended",
+  "updated_at": 1585130674,
+  "upstream_file": "com.hippo.ehviewer.json",
+  "upstream_verified": false,
+  "warnings": [
+    "direct_mapping"
+  ]
+}

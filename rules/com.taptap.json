@@ -1,0 +1,18 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "RiwiHow"
+  ],
+  "description": {
+    "en": "Isolation for this app is recommended\nCreates data and Tencent (when use QQ to login) folder.",
+    "zh-CN": "推荐为该应用使用隔离\n创建 data，Tencent（当使用 QQ 登录时）文件夹。",
+    "zh-TW": "推薦為該程式使用隔離\n建立 data，Tencent（當使用 QQ 登入時）資料夾。"
+  },
+  "package": "com.taptap",
+  "path_mappings": {},
+  "recommendation": "recommended",
+  "updated_at": 1585135489,
+  "upstream_file": "com.taptap.json",
+  "upstream_verified": false,
+  "warnings": []
+}

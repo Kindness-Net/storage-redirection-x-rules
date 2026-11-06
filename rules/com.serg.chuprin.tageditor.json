@@ -1,0 +1,16 @@
+{
+  "allowed_real_paths": [],
+  "authors": [],
+  "description": {
+    "en": "Isolation for this app will cause problems",
+    "zh-CN": "为该应用使用隔离会产生问题",
+    "zh-TW": "為該程式使用隔離会产生问题"
+  },
+  "package": "com.serg.chuprin.tageditor",
+  "path_mappings": {},
+  "recommendation": "cause_problems",
+  "updated_at": 1665886522,
+  "upstream_file": "com.serg.chuprin.tageditor.json",
+  "upstream_verified": false,
+  "warnings": []
+}

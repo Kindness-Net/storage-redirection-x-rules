@@ -1,0 +1,18 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "YandexStudio"
+  ],
+  "description": {
+    "en": "Isolation for this app is unnecessary\nThis app has no non-standard behaviors.",
+    "zh-CN": "为该应用使用隔离没有必要\n该应用没有非标准的行为。\n该应用有两种下载模式，直接下载和在创建Bilibili客户端下载任务，直接下载调用系统下载器，不会创建非标准目录和文件；在Bilibili客户端创建任务需要访问Bilibili的data目录，因此不能开启重定向",
+    "zh-TW": "為該程式使用隔離沒有必要\n該程式沒有非標準行為。"
+  },
+  "package": "cn.nsapps.moe.bilimoe",
+  "path_mappings": {},
+  "recommendation": "unnecessary",
+  "updated_at": 1573909761,
+  "upstream_file": "cn.nsapps.moe.bilimoe.json",
+  "upstream_verified": true,
+  "warnings": []
+}

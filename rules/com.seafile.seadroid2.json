@@ -1,0 +1,22 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "david082321"
+  ],
+  "description": {
+    "en": "Isolation for this app is not recommended\nThis app creates files and folders in non-standard locations.\nBut it will affect upload & auto backup function when enabling redirecting.",
+    "zh-CN": "不推荐为该应用使用隔离\n该应用会在非标准位置创建文件和文件夹。\n但在开启重定向后会影响上传和备份相册的功能",
+    "zh-TW": "不推薦為該程式使用隔離\n該程式會在非標準位置建立檔案和資料夾。\n但在開啟重定向後會影響上傳和備份相簿的功能"
+  },
+  "package": "com.seafile.seadroid2",
+  "path_mappings": {
+    "Seafile": "Documents/Seafile"
+  },
+  "recommendation": "not_recommended",
+  "updated_at": 1573909761,
+  "upstream_file": "com.seafile.seadroid2.json",
+  "upstream_verified": false,
+  "warnings": [
+    "direct_mapping"
+  ]
+}

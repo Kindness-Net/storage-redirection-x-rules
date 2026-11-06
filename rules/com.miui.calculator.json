@@ -1,0 +1,20 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "ArthurCyy"
+  ],
+  "description": {
+    "en": "Isolation for this app is not recommended\nThis application does not request for storage permissions, but still tries to create non-user files to the non-standard folder MIUI.",
+    "zh-CN": "不推荐为该应用使用隔离",
+    "zh-TW": "不推薦為該程式使用隔離\n此应用没有请求存储权限，但仍会尝试创建非用户文件至非标准文件夹MIUI。"
+  },
+  "package": "com.miui.calculator",
+  "path_mappings": {},
+  "recommendation": "not_recommended",
+  "updated_at": 1666405814,
+  "upstream_file": "com.miui.calculator.json",
+  "upstream_verified": false,
+  "warnings": [
+    "non_standard_files"
+  ]
+}

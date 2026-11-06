@@ -1,0 +1,18 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "life2015"
+  ],
+  "description": {
+    "en": "Isolation for this app is not recommended",
+    "zh-CN": "不推荐为该应用使用隔离\n该应用会在Android目录下建立aod目录来进行日志存储和进程通信，开启重定向会影响应用的正常使用",
+    "zh-TW": "不推薦為該程式使用隔離"
+  },
+  "package": "com.retrox.aodmod",
+  "path_mappings": {},
+  "recommendation": "not_recommended",
+  "updated_at": 1573909761,
+  "upstream_file": "com.retrox.aodmod.json",
+  "upstream_verified": false,
+  "warnings": []
+}

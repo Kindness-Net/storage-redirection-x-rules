@@ -1,0 +1,18 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "ForbAvalon"
+  ],
+  "description": {
+    "en": "Isolation for this app is not recommended",
+    "zh-CN": "不推荐为该应用使用隔离\n重定向会导致应用将文件下载到错误的目录，并且非标准文件夹可以通过设置来排除。",
+    "zh-TW": "不推薦為該程式使用隔離"
+  },
+  "package": "com.vanda_adm.vanda",
+  "path_mappings": {},
+  "recommendation": "not_recommended",
+  "updated_at": 1573909761,
+  "upstream_file": "com.vanda_adm.vanda.json",
+  "upstream_verified": false,
+  "warnings": []
+}

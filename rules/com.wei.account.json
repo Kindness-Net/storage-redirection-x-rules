@@ -1,0 +1,18 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "UCCMAWEI"
+  ],
+  "description": {
+    "en": "Isolation for this app is unnecessary\nAccount Box has switched the Documents/AccountBox folder to store necessary backup files for all device models and systems since version 6.0.0.",
+    "zh-CN": "为该应用使用隔离没有必要\n账号本子从 6.0.0 开始已经对所有机型和系统采用 Documents/AccountBox 文件夹来存储必要的备份文件。",
+    "zh-TW": "為該程式使用隔離沒有必要\n賬號本子從 6.0.0 開始已經對所有機型和系統採用 Documents/AccountBox 資料夾來儲存必要的備份檔案。"
+  },
+  "package": "com.wei.account",
+  "path_mappings": {},
+  "recommendation": "unnecessary",
+  "updated_at": 1628931595,
+  "upstream_file": "com.wei.account.json",
+  "upstream_verified": true,
+  "warnings": []
+}

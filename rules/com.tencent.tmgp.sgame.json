@@ -1,0 +1,19 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "wyy8087",
+    "xiangyu0"
+  ],
+  "description": {
+    "en": "Isolation for this app is not recommended\nThis app will create non-standard folders. But according to user reports (starting from May 2022), the redirect may cause your account be banned, please use with caution.",
+    "zh-CN": "不推荐为该应用使用隔离",
+    "zh-TW": "不推薦為該程式使用隔離\n此应用会建立非标准文件夹。但根据用户报告（2022年5月开始），重定向会导致账号被封停，请谨慎使用。"
+  },
+  "package": "com.tencent.tmgp.sgame",
+  "path_mappings": {},
+  "recommendation": "not_recommended",
+  "updated_at": 1651486122,
+  "upstream_file": "com.tencent.tmgp.sgame.json",
+  "upstream_verified": false,
+  "warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "ForbAvalon"
+  ],
+  "description": {
+    "en": "Isolation for this app is not recommended",
+    "zh-CN": "不推荐为该应用使用隔离\n非网易，腾讯系游戏，一般不会在非标准目录创建文件夹。该游戏不推荐开启重定向，可能导致游戏下载更新文件缓慢。",
+    "zh-TW": "不推薦為該程式使用隔離"
+  },
+  "package": "com.huanmeng.zhanjian2",
+  "path_mappings": {},
+  "recommendation": "not_recommended",
+  "updated_at": 1573909761,
+  "upstream_file": "com.huanmeng.zhanjian2.json",
+  "upstream_verified": false,
+  "warnings": []
+}

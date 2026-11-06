@@ -1,0 +1,18 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "frencis107"
+  ],
+  "description": {
+    "en": "Isolation for this app is recommended\nThe app persists (save) non-user files (caches, logs, and even tags to track the device, etc.) to the shared storage which is an abuse of storage permission.",
+    "zh-CN": "推荐为该应用使用隔离\n该应用持久化（保存）非用户文件（缓存、日志，甚至是跟踪设备的标签等）到共享存储空间，这是对存储权限的滥用。",
+    "zh-TW": "推薦為該程式使用隔離\n該程式持久化（儲存）非使用者檔案（快取、日誌，甚至是跟蹤裝置的標籤等）到共享儲存空間，這是對儲存權限的濫用。"
+  },
+  "package": "com.miui.cloudbackup",
+  "path_mappings": {},
+  "recommendation": "recommended",
+  "updated_at": 1573909761,
+  "upstream_file": "com.miui.cloudbackup.json",
+  "upstream_verified": false,
+  "warnings": []
+}

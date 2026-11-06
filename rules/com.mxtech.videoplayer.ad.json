@@ -1,0 +1,20 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "DEVELOPER"
+  ],
+  "description": {
+    "en": "Isolation for this app is recommended\nThis app creates .ColombiaMedia, MXShare folder.",
+    "zh-CN": "推荐为该应用使用隔离\n该应用创建 .ColombiaMedia, MXShare 文件夹。",
+    "zh-TW": "推薦為該程式使用隔離\n該應用建立 .ColombiaMedia, MXShare 資料夾。"
+  },
+  "package": "com.mxtech.videoplayer.ad",
+  "path_mappings": {},
+  "recommendation": "recommended",
+  "updated_at": 1575355945,
+  "upstream_file": "com.mxtech.videoplayer.ad.json",
+  "upstream_verified": false,
+  "warnings": [
+    "cross_app_access"
+  ]
+}

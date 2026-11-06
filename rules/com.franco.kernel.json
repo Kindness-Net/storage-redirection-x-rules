@@ -1,0 +1,22 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "Alex Pun"
+  ],
+  "description": {
+    "en": "Isolation for this app is not recommended",
+    "zh-CN": "不推荐为该应用使用隔离",
+    "zh-TW": "不推薦為該程式使用隔離"
+  },
+  "package": "com.franco.kernel",
+  "path_mappings": {
+    "franco.kernel_updater/kernel_backups": "Documents/Franco_Kernel"
+  },
+  "recommendation": "not_recommended",
+  "updated_at": 1573909761,
+  "upstream_file": "com.franco.kernel.json",
+  "upstream_verified": false,
+  "warnings": [
+    "direct_mapping"
+  ]
+}

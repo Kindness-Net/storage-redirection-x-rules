@@ -1,0 +1,18 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "tzwjkl"
+  ],
+  "description": {
+    "en": "Isolation for this app is not recommended",
+    "zh-CN": "不推荐为该应用使用隔离\n该应用为文件同步类应用，在主文件夹内的读写和创建行为不可预测，但是为了正常使用，建议不开启重定向。",
+    "zh-TW": "不推薦為該程式使用隔離"
+  },
+  "package": "com.nutomic.syncthingandroid",
+  "path_mappings": {},
+  "recommendation": "not_recommended",
+  "updated_at": 1573909761,
+  "upstream_file": "com.nutomic.syncthingandroid.json",
+  "upstream_verified": false,
+  "warnings": []
+}

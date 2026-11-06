@@ -1,0 +1,18 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "LWL12"
+  ],
+  "description": {
+    "en": "Isolation for this app is recommended\nThe application creates multiple debug information output folders in the storage root directory. It is recommended to turn on redirection and prevent it write to storage.",
+    "zh-CN": "推荐为该应用使用隔离\n该应用会在存储根目录创建多个调试信息输出文件夹，建议开启重定向并阻止其写入存储。",
+    "zh-TW": "推薦為該程式使用隔離\n該程式會在儲存根目錄建立多個調試信息輸出資料夾，建議開啟重新導向並阻止其寫入儲存。"
+  },
+  "package": "com.mobvoi.baiding",
+  "path_mappings": {},
+  "recommendation": "recommended",
+  "updated_at": 1573909761,
+  "upstream_file": "com.mobvoi.baiding.json",
+  "upstream_verified": false,
+  "warnings": []
+}

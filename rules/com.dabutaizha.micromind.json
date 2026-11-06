@@ -1,0 +1,18 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "OdinZhang"
+  ],
+  "description": {
+    "en": "Isolation for this app is recommended\nCreates MicroMind and MicroMindBackup folder.",
+    "zh-CN": "推荐为该应用使用隔离\n创建 MicroMind 和 MicroMindBackup 文件夹。",
+    "zh-TW": "推薦為該程式使用隔離\n建立 MicroMind 和 MicroMindBackup 資料夾。"
+  },
+  "package": "com.dabutaizha.micromind",
+  "path_mappings": {},
+  "recommendation": "recommended",
+  "updated_at": 1585058355,
+  "upstream_file": "com.dabutaizha.micromind.json",
+  "upstream_verified": false,
+  "warnings": []
+}

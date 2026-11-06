@@ -1,0 +1,23 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "H-xiaoH",
+    "LittleChest"
+  ],
+  "description": {
+    "en": "Whether is necessary to isolation depends on personal circumstances\nCreates ADM folder. You can choose to isolate with export rules to modify the location.",
+    "zh-CN": "是否有必要隔离取决于个人情况\n建立 ADM 文件夹。可以选择隔离配合导出规则修改其位置。",
+    "zh-TW": "是否有必要隔離取決於個人情況\n建立 AMD 資料夾。可以選擇隔離配合匯出規則修改其位置。"
+  },
+  "package": "com.dv.adm",
+  "path_mappings": {
+    "ADM": "Download/ADM"
+  },
+  "recommendation": "depends_on_situations",
+  "updated_at": 1595299593,
+  "upstream_file": "com.dv.adm.json",
+  "upstream_verified": false,
+  "warnings": [
+    "direct_mapping"
+  ]
+}

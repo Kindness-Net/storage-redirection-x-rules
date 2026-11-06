@@ -1,0 +1,18 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "DEVELOPER"
+  ],
+  "description": {
+    "en": "Isolation for this app is unnecessary\nUnder the default settings, saves will be stored into its private folder.",
+    "zh-CN": "为该应用使用隔离没有必要\n默认设定下，存档会被保存到其私有文件夹。",
+    "zh-TW": "為該程式使用隔離沒有必要\n預設設定下，存檔會被儲存到其私有資料夾。"
+  },
+  "package": "com.mojang.minecraftpe",
+  "path_mappings": {},
+  "recommendation": "unnecessary",
+  "updated_at": 1573909761,
+  "upstream_file": "com.mojang.minecraftpe.json",
+  "upstream_verified": true,
+  "warnings": []
+}

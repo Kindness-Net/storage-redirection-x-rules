@@ -1,0 +1,18 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "yiheng0"
+  ],
+  "description": {
+    "en": "Isolation for this app is recommended\nThis app creates files and folders in non-standard locations.\nEnabling redirecting will only affect the saving location of backup data.",
+    "zh-CN": "推荐为该应用使用隔离\n该应用会在非标准位置创建文件和文件夹。\n开启重定向只会导致备份出来的数据不在根目录，不影响该应用的使用效果。",
+    "zh-TW": "推薦為該程式使用隔離\n該程式會在非標準位置建立文件和資料夾。\n開啟重新導向只會導致備份出來的資料不在根目錄，不影響該程式的使用效果。"
+  },
+  "package": "com.catchingnow.icebox",
+  "path_mappings": {},
+  "recommendation": "recommended",
+  "updated_at": 1573909761,
+  "upstream_file": "com.catchingnow.icebox.json",
+  "upstream_verified": false,
+  "warnings": []
+}

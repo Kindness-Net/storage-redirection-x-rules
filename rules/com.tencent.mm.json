@@ -1,0 +1,26 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "DEVELOPER",
+    "CubeSky",
+    "Shane",
+    "sjdhome",
+    "Mirr0Ch1",
+    "baicai9732",
+    "mapleshadow"
+  ],
+  "description": {
+    "en": "Isolation for this app is recommended\nThe app persists (save) non-user files (caches, logs, and even tags to track the device, etc.) to the shared storage which is an abuse of storage permission.\nPlease be careful to clean app data, or the picture in chats may lost.",
+    "zh-CN": "推荐为该应用使用隔离\n该应用持久化（保存）非用户文件（缓存、日志，甚至是跟踪设备的标签等）到共享存储空间，这是对存储权限的滥用。\n开启后请谨慎清理应用数据，否则可能会造成聊天图片丢失。",
+    "zh-TW": "推薦為該程式使用隔離\n該程式持久化（儲存）非使用者檔案（快取、日誌，甚至是跟蹤裝置的標籤等）到共享儲存空間，這是對儲存權限的濫用。\n開啟後請謹慎清理程式數據，否則可能會造成聊天圖片丟失。"
+  },
+  "package": "com.tencent.mm",
+  "path_mappings": {},
+  "recommendation": "recommended",
+  "updated_at": 1646555686,
+  "upstream_file": "com.tencent.mm.json",
+  "upstream_verified": false,
+  "warnings": [
+    "cross_app_access"
+  ]
+}

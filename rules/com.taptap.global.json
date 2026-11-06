@@ -1,0 +1,18 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "MBRjun"
+  ],
+  "description": {
+    "en": "Isolation for this app is recommended\nCreates taptap_did folder if storage permission is granted.\n@`\nPersisting (saving) non-user files to shared storage is an abuse of storage permission.",
+    "zh-CN": "推荐为该应用使用隔离\n若授予存储权限则会建立 taptap_did 文件夹。\n@`\n持久化（保存）非用户文件到共享存储空间是滥用存储权限的行为。",
+    "zh-TW": "推薦為該程式使用隔離\n若授予儲存權限則會建立 taptap_did 資料夾。\n持久化（儲存）非使用者檔案到共享儲存空間是濫用儲存權限的行為。"
+  },
+  "package": "com.taptap.global",
+  "path_mappings": {},
+  "recommendation": "recommended",
+  "updated_at": 1652022452,
+  "upstream_file": "com.taptap.global.json",
+  "upstream_verified": false,
+  "warnings": []
+}

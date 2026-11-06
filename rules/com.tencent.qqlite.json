@@ -1,0 +1,26 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "DEVELOPER",
+    "Bubble",
+    "sjdhome"
+  ],
+  "description": {
+    "en": "Isolation for this app is recommended\nThe app persists (save) non-user files (caches, logs, and even tags to track the device, etc.) to the shared storage which is an abuse of storage permission.\nTo the problem that not being able to use \"Open with other apps\", please enable the \"Link saved files\" rule and by tapping the \"Downloaded xxx\" notification instead of directly using \"Open with other apps\" to open the file (you can also use the file app to find the file directly).",
+    "zh-CN": "推荐为该应用使用隔离\n该应用持久化（保存）非用户文件（缓存、日志，甚至是跟踪设备的标签等）到共享存储空间，这是对存储权限的滥用。\n对于无法使用“用其他应用打开”的问题，请开启“链接保存的文件”规则并通过弹出的“已下载 xxx”通知而非直接使用“用其他应用打开”来打开文件（还可以直接使用文件应用来找到文件）。",
+    "zh-TW": "推薦為該程式使用隔離\n該程式持久化（儲存）非使用者檔案（快取、日誌，甚至是跟蹤裝置的標籤等）到共享儲存空間，這是對儲存權限的濫用。\n對於無法使用「用其他應用打開」的問題，請開啓「鏈接保存的文件」規則並通過彈出的「已下載 xxx」通知而非直接使用「用其他應用打開」來打開文件（還可以直接使用文件應用來找到文件）。"
+  },
+  "package": "com.tencent.qqlite",
+  "path_mappings": {
+    "DCIM/Camera": "Pictures/QQLite",
+    "tencent/QQ_Images": "Pictures/QQLite",
+    "tencent/QQfile_recv": "Download/QQLite"
+  },
+  "recommendation": "recommended",
+  "updated_at": 1573909761,
+  "upstream_file": "com.tencent.qqlite.json",
+  "upstream_verified": false,
+  "warnings": [
+    "direct_mapping"
+  ]
+}

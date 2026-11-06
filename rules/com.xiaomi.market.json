@@ -1,0 +1,20 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "yi-Xu-0100",
+    "RayXiaoCat",
+    "YifePlayte"
+  ],
+  "description": {
+    "en": "Isolation for this app is recommended\nThe app persists (save) non-user files (caches, logs, and even tags to track the device, etc.) to the shared storage which is an abuse of storage permission.\nThe \"MiMarket\" folder will be generated.\nIf you can not download normally, you can try to provide \"Download\", \"Documents\" folder access permissions.\nIf you can not install the application normally, you can try to provide \"Android/data\", \"MIUI\" folder access permissions.",
+    "zh-CN": "推荐为该应用使用隔离\n该应用持久化（保存）非用户文件（缓存、日志，甚至是跟踪设备的标签等）到共享存储空间，这是对存储权限的滥用。\n会生成 “MiMarket” 文件夹。\n如果无法正常下载，可以尝试提供 “Download”，“Documents” 文件夹访问权限。\n如果无法正常安装应用程序，可以尝试提供 “Android/data”，“MIUI” 文件夹访问权限。",
+    "zh-TW": "推薦為該程式使用隔離\n該程式持久化（儲存）非使用者檔案（快取、日誌，甚至是跟蹤裝置的標籤等）到共享儲存空間，這是對儲存權限的濫用。\n會生成 “MiMarket” 文件夾。\n如果無法正常下載，可以嘗試提供 “Download”，“Documents” 文件夾訪問權限。\n如果無法正常安裝應用程序，可以嘗試提供 “Android/data”，“MIUI” 文件夾訪問權限。"
+  },
+  "package": "com.xiaomi.market",
+  "path_mappings": {},
+  "recommendation": "recommended",
+  "updated_at": 1622025265,
+  "upstream_file": "com.xiaomi.market.json",
+  "upstream_verified": false,
+  "warnings": []
+}

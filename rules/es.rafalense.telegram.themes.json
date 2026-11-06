@@ -1,0 +1,19 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "FQrabbit",
+    "Skimige"
+  ],
+  "description": {
+    "en": "Isolation for this app is not recommended",
+    "zh-CN": "不推荐为该应用使用隔离\n该应用默认主题下载位置为 Telegram/Themes，此目录位置可在应用设置中修改以避免产生非标准文件夹，开启重定向会导致该应用无法应用主题。",
+    "zh-TW": "不推薦為該程式使用隔離"
+  },
+  "package": "es.rafalense.telegram.themes",
+  "path_mappings": {},
+  "recommendation": "not_recommended",
+  "updated_at": 1573909761,
+  "upstream_file": "es.rafalense.telegram.themes.json",
+  "upstream_verified": false,
+  "warnings": []
+}

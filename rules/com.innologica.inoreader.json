@@ -1,0 +1,19 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "msdx321",
+    "sakuyamaij"
+  ],
+  "description": {
+    "en": "Isolation for this app is unnecessary\nThis app has no non-standard behaviors.",
+    "zh-CN": "为该应用使用隔离没有必要\n该应用没有非标准的行为。",
+    "zh-TW": "為該程式使用隔離沒有必要\n該程式沒有非標準行為。"
+  },
+  "package": "com.innologica.inoreader",
+  "path_mappings": {},
+  "recommendation": "unnecessary",
+  "updated_at": 1592100665,
+  "upstream_file": "com.innologica.inoreader.json",
+  "upstream_verified": true,
+  "warnings": []
+}

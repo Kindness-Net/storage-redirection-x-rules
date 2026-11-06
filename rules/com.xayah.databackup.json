@@ -1,0 +1,16 @@
+{
+  "allowed_real_paths": [],
+  "authors": [],
+  "description": {
+    "en": "Isolation for this app is unnecessary\nThis app allows users manually change the location of backup files. It is recommended that you customize the location of backup files instead of enabling isolation.",
+    "zh-CN": "为该应用使用隔离没有必要\n该应用支持自定义备份文件位置。建议手动自定义备份文件位置，而非开启隔离。",
+    "zh-TW": "為該程式使用隔離沒有必要\n該應用支援自定備份文件位置。建議自定本份文件位置，而非開啟隔離。"
+  },
+  "package": "com.xayah.databackup",
+  "path_mappings": {},
+  "recommendation": "unnecessary",
+  "updated_at": 1668246488,
+  "upstream_file": "com.xayah.databackup.json",
+  "upstream_verified": false,
+  "warnings": []
+}

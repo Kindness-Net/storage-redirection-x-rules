@@ -1,0 +1,18 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "huanruomengyun"
+  ],
+  "description": {
+    "en": "Isolation for this app is recommended\nCreates longyuan and other folders.",
+    "zh-CN": "推荐为该应用使用隔离\n建立 longyuan 等文件夹。",
+    "zh-TW": "推薦為該程式使用隔離\n建立 longyuan 等資料夾。"
+  },
+  "package": "com.ilongyuan.cytus2.ly.TapTap",
+  "path_mappings": {},
+  "recommendation": "recommended",
+  "updated_at": 1585129810,
+  "upstream_file": "com.ilongyuan.cytus2.ly.TapTap.json",
+  "upstream_verified": false,
+  "warnings": []
+}

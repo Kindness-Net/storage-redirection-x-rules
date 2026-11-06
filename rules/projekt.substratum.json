@@ -1,0 +1,18 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "fython"
+  ],
+  "description": {
+    "en": "Isolation for this app is not recommended\nEnabling redirecting may fail to install overlay theme automatically while Substratum is working in non-root mode.",
+    "zh-CN": "不推荐为该应用使用隔离\n当 Substratum 工作在非 Root 模式时，启用重定向可能会导致自动安装主题功能失效。",
+    "zh-TW": "不推薦為該程式使用隔離\n當 Substratum 運作在非 Root 模式時，啟用重新導向可能會導致自動安裝樣式功能失效。"
+  },
+  "package": "projekt.substratum",
+  "path_mappings": {},
+  "recommendation": "not_recommended",
+  "updated_at": 1573909761,
+  "upstream_file": "projekt.substratum.json",
+  "upstream_verified": false,
+  "warnings": []
+}

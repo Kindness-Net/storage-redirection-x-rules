@@ -1,0 +1,24 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "l3072153052",
+    "Snapmali"
+  ],
+  "description": {
+    "en": "Isolation for this app is recommended\nThis app creates .gs，.gs_fs0，.gs_fs3 folder under Pictures folder.\n@`\nPersisting (saving) non-user files to shared storage is an abuse of storage permission.",
+    "zh-CN": "推荐为该应用使用隔离\n此应用在 Pictures 文件夹下建立 .gs，.gs_fs0，.gs_fs3 文件夹。\n@`\n持久化（保存）非用户文件到共享存储空间是滥用存储权限的行为。",
+    "zh-TW": "推薦為該程式使用隔離\n此程式在 Pictures 資料夾下建立 .gs，.gs_fs0，.gs_fs3 資料夾。\n持久化（儲存）非使用者檔案到共享儲存空間是濫用儲存權限的行為。"
+  },
+  "package": "com.taobao.taobao",
+  "path_mappings": {
+    "DCIM": "Pictures/Taobao"
+  },
+  "recommendation": "recommended",
+  "updated_at": 1646362287,
+  "upstream_file": "com.taobao.taobao.json",
+  "upstream_verified": false,
+  "warnings": [
+    "cross_app_access",
+    "direct_mapping"
+  ]
+}

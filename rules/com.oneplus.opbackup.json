@@ -1,0 +1,18 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "dantmnf"
+  ],
+  "description": {
+    "en": "Isolation for this app will cause problems\nEnabling isolation will break local upgrade (wrong file path is passed to update_engine).",
+    "zh-CN": "为该应用使用隔离会产生问题\n启用隔离会导致不能进行本地升级（错误的文件路径被传递给 update_engine）。",
+    "zh-TW": "為該程式使用隔離会产生问题\n啟用隔離會導致不能進行本地升級（錯誤的檔案路徑被傳遞給 update_engine）。"
+  },
+  "package": "com.oneplus.opbackup",
+  "path_mappings": {},
+  "recommendation": "cause_problems",
+  "updated_at": 1585130073,
+  "upstream_file": "com.oneplus.opbackup.json",
+  "upstream_verified": false,
+  "warnings": []
+}

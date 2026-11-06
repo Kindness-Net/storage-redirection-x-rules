@@ -1,0 +1,18 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "mcnk328"
+  ],
+  "description": {
+    "en": "Isolation for this app is recommended\nCreates Android/data/.um if storage permission is granted.\n@`\nPersisting (saving) non-user files to shared storage is an abuse of storage permission.",
+    "zh-CN": "推荐为该应用使用隔离\n若授予存储权限则会建立 Android/data/.um。\n@`\n持久化（保存）非用户文件到共享存储空间是滥用存储权限的行为。",
+    "zh-TW": "推薦為該程式使用隔離\n若授予儲存權限則會建立 Android/data/.um。\n持久化（儲存）非使用者檔案到共享儲存空間是濫用儲存權限的行為。"
+  },
+  "package": "alook.browser",
+  "path_mappings": {},
+  "recommendation": "recommended",
+  "updated_at": 1652176659,
+  "upstream_file": "alook.browser.json",
+  "upstream_verified": false,
+  "warnings": []
+}

@@ -1,0 +1,97 @@
+{
+  "com.android.camera..json": {
+    "fields": {
+      "package": "com.android.camera"
+    },
+    "reason": "文件名多一个句点，保留原始文件，使用其 package 字段。"
+  },
+  "com.autonavi.minimap.json": {
+    "fields": {
+      "package": "com.autonavi.minimap",
+      "recommendation": "@recommended",
+      "last_update": {
+        "target_api": 31,
+        "flags": "read_storage, write_storage",
+        "timestamp": 1658670875,
+        "version_code": 111800,
+        "version_name": "11.18.1.2936"
+      },
+      "non_standard_files": [
+        ".7934039a",
+        ".UTSystemConfig",
+        ".gs_fs0",
+        "alipay",
+        "autonavi"
+      ]
+    },
+    "reason": "包名、推荐状态和更新时间误嵌套在 export_folders，迁移时提升到应用元数据。"
+  },
+  "com.chrome.beta.json": {
+    "fields": {
+      "package": "com.chrome.beta"
+    },
+    "reason": "package 误填为 com.chrome.dev；按此文件名匹配，dev 原始文件独立保留。"
+  },
+  "com.crossbowffs.nekosms.json": {
+    "fields": {
+      "package": "com.crossbowffs.nekosms"
+    },
+    "reason": "package 误含 .json 文件后缀，按文件名去除后缀。"
+  },
+  "com.mxtech.videoplayer.json": {
+    "fields": {
+      "package": "com.mxtech.videoplayer"
+    },
+    "reason": "package 误填为 pro 包；按此文件名匹配，pro 原始文件独立保留。"
+  },
+  "jp.pxv.pavoo.json": {
+    "fields": {
+      "package": "jp.pxv.pavoo"
+    },
+    "reason": "package 误填为 jp.pxv.android；按此文件名匹配，android 原始文件独立保留。"
+  },
+  "com.microsoft.math.json": {
+    "fields": {
+      "verified": true
+    },
+    "reason": "将字符串认证状态转为 JSON 布尔值，仍仅表示上游认证。"
+  },
+  "com.paragon.tcplugins_ntfs_ro.json": {
+    "fields": {
+      "verified": true
+    },
+    "reason": "将字符串认证状态转为 JSON 布尔值，仍仅表示上游认证。"
+  },
+  "com.shahid.nid.json": {
+    "fields": {
+      "verified": true
+    },
+    "reason": "将字符串认证状态转为 JSON 布尔值，仍仅表示上游认证。"
+  },
+  "com.guxiaqiubai.jarvis.json": {
+    "fields": {
+      "verified": true
+    },
+    "reason": "将字符串认证状态转为 JSON 布尔值，仍仅表示上游认证。"
+  },
+  "com.buak.Link2SD.json": {
+    "fields": {
+      "verified": true
+    },
+    "reason": "将字符串认证状态转为 JSON 布尔值，仍仅表示上游认证。"
+  },
+  "com.kiwiwalks.witchspring4pk.json": {
+    "fields": {
+      "verified": true
+    },
+    "reason": "将字符串认证状态转为 JSON 布尔值，仍仅表示上游认证。"
+  },
+  "com.samsung.android.scloud.json": {
+    "fields": {
+      "authors": [
+        "david082321"
+      ]
+    },
+    "reason": "作者字段为单个字符串，转换成作者数组。"
+  }
+}

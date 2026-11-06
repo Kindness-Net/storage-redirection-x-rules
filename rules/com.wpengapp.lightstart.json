@@ -1,0 +1,20 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "ArthurCyy"
+  ],
+  "description": {
+    "en": "Isolation for this app is unnecessary\nThis app has no non-standard behaviors.\nFor MIUI users, do not enable the MIUI Enhancement function in the application, otherwise the miad file will be created.",
+    "zh-CN": "为该应用使用隔离没有必要\n该应用没有非标准的行为。",
+    "zh-TW": "為該程式使用隔離沒有必要\n該程式沒有非標準行為。\n对于MIUI用户，不要开启应用中的“MIUI 增强”功能，否则会创建文件“miad”。"
+  },
+  "package": "com.wpengapp.lightstart",
+  "path_mappings": {},
+  "recommendation": "unnecessary",
+  "updated_at": 1666404194,
+  "upstream_file": "com.wpengapp.lightstart.json",
+  "upstream_verified": true,
+  "warnings": [
+    "non_standard_files"
+  ]
+}

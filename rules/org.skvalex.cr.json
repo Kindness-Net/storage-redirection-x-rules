@@ -1,0 +1,22 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "laerhu"
+  ],
+  "description": {
+    "en": "Whether is necessary to isolation depends on personal circumstances\nThe app saves user files to a non-standard location, and you can modify the file location by enabling the isolation and export rules.",
+    "zh-CN": "是否有必要隔离取决于个人情况\n该应用保存用户文件至非标准位置，您可以通过启用隔离并配合导出规则以修改文件位置。",
+    "zh-TW": "是否有必要隔離取決於個人情況\n該程式儲存使用者檔案至非標準位置，您可以透過啟用隔離和匯出規則以修改檔案位置"
+  },
+  "package": "org.skvalex.cr",
+  "path_mappings": {
+    "voix": "Recordings/Call Recorder"
+  },
+  "recommendation": "depends_on_situations",
+  "updated_at": 1644401010,
+  "upstream_file": "org.skvalex.cr.json",
+  "upstream_verified": false,
+  "warnings": [
+    "direct_mapping"
+  ]
+}

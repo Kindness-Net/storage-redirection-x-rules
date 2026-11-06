@@ -1,0 +1,20 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "nickyc4"
+  ],
+  "description": {
+    "en": "Isolation for this app is recommended\nThe app persists (save) non-user files (caches, logs, and even tags to track the device, etc.) to the shared storage which is an abuse of storage permission.\nThe link is to specify the download directory, a feature in donation version.\nIf you are donated user, it is unnecessary to enable this whole rule.",
+    "zh-CN": "推荐为该应用使用隔离\n该应用持久化（保存）非用户文件（缓存、日志，甚至是跟踪设备的标签等）到共享存储空间，这是对存储权限的滥用。",
+    "zh-TW": "推薦為該程式使用隔離\n該程式持久化（儲存）非使用者檔案（快取、日誌，甚至是跟蹤裝置的標籤等）到共享儲存空間，這是對儲存權限的濫用。\n下方的链接是用于实现高级版中的自定义下载目录功能。\n如果您已经购买，则不需要应用重定向或链接。"
+  },
+  "package": "com.arter97.arktube",
+  "path_mappings": {},
+  "recommendation": "recommended",
+  "updated_at": 1573909761,
+  "upstream_file": "com.arter97.arktube.json",
+  "upstream_verified": false,
+  "warnings": [
+    "filtered_export"
+  ]
+}

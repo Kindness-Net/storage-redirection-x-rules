@@ -1,0 +1,18 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "Ckey1997"
+  ],
+  "description": {
+    "en": "Isolation for this app is not recommended",
+    "zh-CN": "不推荐为该应用使用隔离\n开启后会导致应用无法显示默认非重定向文件夹外的图片。",
+    "zh-TW": "不推薦為該程式使用隔離"
+  },
+  "package": "com.welove520.qqsweet",
+  "path_mappings": {},
+  "recommendation": "not_recommended",
+  "updated_at": 1573909761,
+  "upstream_file": "com.welove520.qqsweet.json",
+  "upstream_verified": false,
+  "warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "LancelotGaronne"
+  ],
+  "description": {
+    "en": "Isolation for this app is not recommended",
+    "zh-CN": "不推荐为该应用使用隔离\n无法安装分身应用，自身会生成 360 和 dkplat 等非标准文件夹。",
+    "zh-TW": "不推薦為該程式使用隔離"
+  },
+  "package": "com.bly.dkplat",
+  "path_mappings": {},
+  "recommendation": "not_recommended",
+  "updated_at": 1573909761,
+  "upstream_file": "com.bly.dkplat.json",
+  "upstream_verified": false,
+  "warnings": []
+}

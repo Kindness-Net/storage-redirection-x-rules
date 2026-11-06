@@ -1,0 +1,18 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "LWL12"
+  ],
+  "description": {
+    "en": "Isolation for this app is recommended",
+    "zh-CN": "推荐为该应用使用隔离\n该应用会在存储根目录创建多个调试信息输出/缓存文件夹，建议开启重定向。",
+    "zh-TW": "推薦為該程式使用隔離\n該程式會在儲存根目錄建立多個調試信息輸出/緩存資料夾，建議開啟重新導向。"
+  },
+  "package": "com.tencent.karaoke",
+  "path_mappings": {},
+  "recommendation": "recommended",
+  "updated_at": 1573909761,
+  "upstream_file": "com.tencent.karaoke.json",
+  "upstream_verified": false,
+  "warnings": []
+}

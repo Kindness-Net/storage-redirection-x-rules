@@ -1,0 +1,18 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "BlueJett"
+  ],
+  "description": {
+    "en": "Whether is necessary to isolation depends on personal circumstances\nThe app uses Helpshift SDK, which creates.backup/<package> folder if storage permission is granted.",
+    "zh-CN": "是否有必要隔离取决于个人情况\n该应用使用 Helpshift SDK，若授予存储权限则会建立 .backup/<package> 文件夹。",
+    "zh-TW": "是否有必要隔離取決於個人情況\n該程式使用 Helpshift SDK，若授予儲存權限則會建立 .backup/<package> 資料夾。"
+  },
+  "package": "com.supercell.brawlstars",
+  "path_mappings": {},
+  "recommendation": "depends_on_situations",
+  "updated_at": 1589717849,
+  "upstream_file": "com.supercell.brawlstars.json",
+  "upstream_verified": false,
+  "warnings": []
+}

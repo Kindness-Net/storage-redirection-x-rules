@@ -1,0 +1,18 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "JourneyBean"
+  ],
+  "description": {
+    "en": "Isolation for this app is not recommended\nDownloaded data will be cleared.",
+    "zh-CN": "不推荐为该应用使用隔离\n下载的数据会被清除。",
+    "zh-TW": "不推薦為該程式使用隔離"
+  },
+  "package": "com.ets100.ets",
+  "path_mappings": {},
+  "recommendation": "not_recommended",
+  "updated_at": 1573909761,
+  "upstream_file": "com.ets100.ets.json",
+  "upstream_verified": false,
+  "warnings": []
+}

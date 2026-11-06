@@ -1,0 +1,18 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "yiheng0"
+  ],
+  "description": {
+    "en": "Isolation for this app is recommended\nAfter enabling redirect, please\n1. Enable redirect of WeChat\n2. Launch MDWechat to generate files\n3. Copy these files from redirect directory of MDWechat to redirect directory of WeChat\nIf you change settings from MDWechat, please execute Step 3 again.",
+    "zh-CN": "推荐为该应用使用隔离",
+    "zh-TW": "推薦為該程式使用隔離\n启用重定向之后，您需要\n1. 启用微信的重定向\n2. 启动一次 MDWechat 以生成文件\n3. 将该应用的重定向目录（Android/data/com.blanke.mdwechat/cache/sdcard）下的 mdwechat 文件夹复制到微信的重定向目录（Android/data/com.tencent.mm/cache/sdcard）下\n修改 MDWechat 设置后，您需要重新执行第三步。"
+  },
+  "package": "com.blanke.mdwechat",
+  "path_mappings": {},
+  "recommendation": "recommended",
+  "updated_at": 1573909761,
+  "upstream_file": "com.blanke.mdwechat.json",
+  "upstream_verified": false,
+  "warnings": []
+}

@@ -1,0 +1,19 @@
+{
+  "allowed_real_paths": [],
+  "authors": [
+    "simonsmh",
+    "david082321"
+  ],
+  "description": {
+    "en": "Isolation for this app is not recommended",
+    "zh-CN": "不推荐为该应用使用隔离",
+    "zh-TW": "不推薦為該程式使用隔離"
+  },
+  "package": "ru.zdevs.zarchiver.pro",
+  "path_mappings": {},
+  "recommendation": "not_recommended",
+  "updated_at": 1573909761,
+  "upstream_file": "ru.zdevs.zarchiver.pro.json",
+  "upstream_verified": false,
+  "warnings": []
+}
