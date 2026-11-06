@@ -9,7 +9,7 @@
 - 编辑 `rules/<package>.json`，然后运行 `python3 scripts/build_catalog.py`。
 - 将原生规则和生成的 `catalog-v1.json` 一并提交。CI 通过 `python3 scripts/build_catalog.py --check` 检查字段、路径、迁移覆盖率和产物是否一致。
 - 应用从 `https://raw.githubusercontent.com/Kindness-Net/storage-redirection-x-rules/master/catalog-v1.json` 获取完整目录。进入应用配置页时使用缓存，缓存超过 24 小时按需更新；下载不会自动修改设备配置。
-- 应用配置页仅显示简短建议。点击卡片“开启”或打开原有重定向开关，默认合并匹配的云端规则；同路径以已有手动配置为准，保持当前 Android 用户及共享 UID 的配置同步。
+- 应用配置页仅显示简短建议。卡片“开启”控制对所有应用生效的全局云端规则开关，可在设置中统一关闭。全局开启后，打开某个应用的重定向开关才会合并匹配的规则；同路径以已有手动配置为准，保持当前 Android 用户及共享 UID 的配置同步。
 
 ## 单应用格式
 
@@ -32,7 +32,7 @@
 
 `recommendation` 可为 `recommended`、`unnecessary`、`not_recommended`、`cause_problems`、`depends_on_situations`、`custom`。它只表达建议；开启重定向时才引入路径，不因下载或查看建议而自动修改配置。只包含基础隔离建议的应用可以有空路径；不推荐隔离的应用显示简短提示，仍由用户决定是否通过原开关开启。
 
-本地化说明接受 `en`、`zh-CN`、`zh-TW`。`upstream_file` 为空表示没有旧规则来源；`upstream_verified` 仅记录原项目状态，不能当作 SRX 实机验证结果。
+本地化说明接受 `en`、`zh-CN`、`zh-TW`。`description` 首行作为建议标题，其余行作为行为说明；全局开启后，应用卡片展示这两部分，不再保留开启按钮。`upstream_file` 为空表示没有旧规则来源；`upstream_verified` 仅记录原项目状态，不能当作 SRX 实机验证结果。
 
 ## 迁移边界
 
