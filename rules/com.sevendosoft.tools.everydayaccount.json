@@ -9,14 +9,10 @@
     "zh-TW": "推薦為該程式使用隔離\n該程式持久化（儲存）非使用者檔案（快取、日誌，甚至是跟蹤裝置的標籤等）到共享儲存空間，這是對儲存權限的濫用。"
   },
   "package": "com.sevendosoft.tools.everydayaccount",
-  "path_mappings": {
-    "Download": "Download/天天记账"
-  },
+  "path_mappings": {},
   "recommendation": "recommended",
   "updated_at": 1573909761,
   "upstream_file": "com.sevendosoft.tools.everydayaccount.json",
   "upstream_verified": false,
-  "warnings": [
-    "direct_mapping"
-  ]
+  "warnings": []
 }
